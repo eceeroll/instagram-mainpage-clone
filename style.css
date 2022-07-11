@@ -1,0 +1,50 @@
+#ustmenu {
+    background-color: #fff;
+}
+
+.username {
+    font-weight: bolder;
+    font-size: small;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    color: darkblue;
+}
+
+.postarea {
+    border-style: solid;
+    border-color: black;
+    
+}
+
+.suggestarea {
+    border-style: solid;
+    border-color: black;
+}
+.storys {
+    border-style: solid;
+    border-color: black;
+}
+
+.storyphoto {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid rgb(238, 39, 82);
+    margin-right: 7px;
+  }
+  
+.storytext {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    color: black;
+  }
+
+  .suggestarea {
+    background-color: blue;
+  }
+
+  aside {
+    float: right;
+
+  }
